@@ -1,6 +1,7 @@
 # find-friends-react-redux
 
 Integrating REDUX to the find friends REACT app, which views contact cards of robot friends and a search bar which dynamically searches with input.
+[View the app here](https://kunaljain0212.github.io/find-friends-react-redux/)
 
 To view the project: 
 1. Clone this repo 
