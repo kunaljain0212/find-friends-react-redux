@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/find-friends-react-redux/precache-manifest.ad800446502153e18db81691385ebb45.js"
+  "/find-friends-react-redux/precache-manifest.fad05dfaaab0718403fe4f017f646295.js"
 );
 
 self.addEventListener('message', (event) => {
